@@ -1,0 +1,9 @@
+
+13 12 2017 
+here: https://angular.io/tutorial/toh-pt5#routable-herodetailcomponent
+
+14 12 2017 
+here: https://angular.io/tutorial/toh-pt5#extract-the-id-route-parameter
+
+15 12 2017
+here: https://angular.io/tutorial/toh-pt6#heroes-and-http
